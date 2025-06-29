@@ -1,0 +1,9 @@
+/out/
+*.iso
+# Build artifacts
+*.o
+*.swp
+# Temporary files
+*~
+*.tmp
+*.log
