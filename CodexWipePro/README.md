@@ -13,3 +13,7 @@ Built on Arch Linux, inspired by Blancco, powered by Suman Basnet & OpenAI Codex
 ## Quick Build
 ```bash
 ./build_iso.sh
+```
+
+## License
+This project is licensed under the [MIT License](../LICENSE).
