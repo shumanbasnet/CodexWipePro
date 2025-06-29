@@ -1,7 +1,3 @@
----
-
-#### **iso/packages.x86_64**
-```txt
 base
 linux
 linux-firmware
@@ -18,6 +14,8 @@ usbutils
 lsblk
 git
 sudo
+xorg-server
 xorg-xinit
 xterm
 zenity
+xdg-utils
