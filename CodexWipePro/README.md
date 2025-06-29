@@ -1,6 +1,6 @@
 # CodexWipe Pro
 
-AI-Powered Diagnostics & Data Erasure Toolkit  
+AI-Powered Diagnostics & Data Erasure Toolkit
 Built on Arch Linux, inspired by Blancco, powered by Suman Basnet & OpenAI Codex.
 
 ## Features
@@ -13,3 +13,9 @@ Built on Arch Linux, inspired by Blancco, powered by Suman Basnet & OpenAI Codex
 ## Quick Build
 ```bash
 ./build_iso.sh
+```
+
+## Booting the ISO with QEMU
+```bash
+qemu-system-x86_64 -m 2G -cdrom out/$(ls out/*.iso | head -n1)
+```
