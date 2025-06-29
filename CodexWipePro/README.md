@@ -13,3 +13,7 @@ Built on Arch Linux, by Suman Basnet.
 ## Quick Build
 ```bash
 ./build_iso.sh
+```
+
+## License
+This project is licensed under the [MIT License](../LICENSE).
