@@ -1,0 +1,23 @@
+---
+
+#### **iso/packages.x86_64**
+```txt
+base
+linux
+linux-firmware
+mkinitcpio
+yad
+lshw
+nvme-cli
+hdparm
+dmidecode
+bash
+coreutils
+pciutils
+usbutils
+lsblk
+git
+sudo
+xorg-xinit
+xterm
+zenity
