@@ -3,7 +3,7 @@
 
 iso_name="codexwipepro"
 iso_label="CODEXWIPEPRO"
-iso_publisher="Suman Basnet & OpenAI Codex"
+iso_publisher="Suman Basnet"
 iso_application="CodexWipe Pro Live ISO"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"

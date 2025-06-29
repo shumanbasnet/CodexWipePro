@@ -15,6 +15,7 @@ Built on Arch Linux by Suman Basnet. Thank You Julius Goboly, Niraj GC, Sumit Ad
 ./build_iso.sh
 ```
 This produces an ISO in the `out/` directory named `codexwipepro-<date>-x86_64.iso`.
+The `out/` directory is ignored by Git so build artifacts stay local.
 
 ## Usage
 Boot the generated ISO on the target machine. A menu lets you view system information or run a simulated secure erase. Reports are saved under `/root/codexwipe/reports`.
